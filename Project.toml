@@ -1,0 +1,11 @@
+name = "unpaper_jll"
+uuid = "d52248c9-e08a-51c2-9066-05d0bf3e6245"
+version = "6.1.0+0"
+
+[deps]
+FFMPEG_jll = "b22a6f82-2f65-5046-a5b2-351ab43fb4e5"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

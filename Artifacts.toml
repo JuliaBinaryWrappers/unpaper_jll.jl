@@ -1,0 +1,113 @@
+[[unpaper]]
+arch = "i686"
+git-tree-sha1 = "452bb15b51bd4ad4829d53b6c9f951960b20ffec"
+libc = "musl"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "ca2b87c30e15bd21bdaa54c41ef9d536876eafa198e8c155590bc20e02660a0f"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.i686-linux-musl.tar.gz"
+[[unpaper]]
+arch = "aarch64"
+git-tree-sha1 = "b451fb1a744339c6f32e55621f62f58a7501acdb"
+libc = "musl"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "d2f6845e8353bd994075814fbdd9a2963c067b45f24a8a88650f72927d22f782"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.aarch64-linux-musl.tar.gz"
+[[unpaper]]
+arch = "i686"
+git-tree-sha1 = "6fdaa5eeac2d2bd37d8f945a722a597949744355"
+os = "windows"
+
+    [[unpaper.download]]
+    sha256 = "2bdb3f3eacd5aa5ea3405c413c4240c79a5f7b66bdd1483ca16574862a3ea3f6"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.i686-w64-mingw32.tar.gz"
+[[unpaper]]
+arch = "x86_64"
+git-tree-sha1 = "2c1c4a6ac0c54526ac59920d17697d688f9168e9"
+os = "windows"
+
+    [[unpaper.download]]
+    sha256 = "5d0aa9203797eb610f10681f1bb6d26f68277f201b5b0bdb1c2eac741c4a97bb"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.x86_64-w64-mingw32.tar.gz"
+[[unpaper]]
+arch = "armv7l"
+git-tree-sha1 = "ce7e3f3e95fd4fdb6fa8a8908a468865d3df28ec"
+libc = "glibc"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "2cb74fbea9253ecdd254b156752044d5ef32ebeccbe338ea480746275bb35994"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[unpaper]]
+arch = "armv7l"
+git-tree-sha1 = "f689fe279b9ca39f55962c1f7ea1052871851310"
+libc = "musl"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "dce93e42d80952912417321142d928a4d5b14379aa9bdda41dc989b69f4f6930"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.armv7l-linux-musleabihf.tar.gz"
+[[unpaper]]
+arch = "i686"
+git-tree-sha1 = "1a7d0a8d7943ae804a206814be7ec56ef5135608"
+libc = "glibc"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "18664aa777871f9d9fb7d403c2b4a70237255c7a9e4f8a690660fc6c5bdbf4f3"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.i686-linux-gnu.tar.gz"
+[[unpaper]]
+arch = "x86_64"
+git-tree-sha1 = "9ec5e880e756e1d887296af8eeab385af95e94c0"
+libc = "glibc"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "115dd9c4db9a69c9c8a5d4ba6dd49340db98fa9ea4067f8c737f5999165ea0ea"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.x86_64-linux-gnu.tar.gz"
+[[unpaper]]
+arch = "powerpc64le"
+git-tree-sha1 = "d229f274f9182f3d95a4e2d92bb402845b624806"
+libc = "glibc"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "82678d1151fecaa00646ff96e2f479ea0e1337743baa298cef61a39140f72a99"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.powerpc64le-linux-gnu.tar.gz"
+[[unpaper]]
+arch = "x86_64"
+git-tree-sha1 = "a600d0541c52a2af6dfff2edba0f3e1c95b7fb02"
+os = "macos"
+
+    [[unpaper.download]]
+    sha256 = "aba7b912183ed0bb33bf11fd7df30ab6fb1978a19b456619bd74320f73cbeb22"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.x86_64-apple-darwin14.tar.gz"
+[[unpaper]]
+arch = "aarch64"
+git-tree-sha1 = "07049ddbccbdfa4f1d081130dcce01056c419fd4"
+libc = "glibc"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "960c885aa319382e9dedebf2ff908dba0de2e02c9212bb3f03953353c514fbc8"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.aarch64-linux-gnu.tar.gz"
+[[unpaper]]
+arch = "x86_64"
+git-tree-sha1 = "071b5fe662e06c7a751bed8903c925793fe3d81c"
+os = "freebsd"
+
+    [[unpaper.download]]
+    sha256 = "1d9991fd7ca1b40d5fc9d055756f1c3367bbf887c102b7e8273f8bb19d2cf191"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[unpaper]]
+arch = "x86_64"
+git-tree-sha1 = "da759fc1e81db585145095e4d80122321d20db8c"
+libc = "musl"
+os = "linux"
+
+    [[unpaper.download]]
+    sha256 = "c879b28f6ce43c4fcfd5e37d701c4e94e59ad6ddf79b84144e327effb31d79e4"
+    url = "https://github.com/JuliaBinaryWrappers/unpaper_jll.jl/releases/download/unpaper-v6.1.0+0/unpaper.v6.1.0.x86_64-linux-musl.tar.gz"
