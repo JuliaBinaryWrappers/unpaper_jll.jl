@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("unpaper")
-JLLWrappers.@generate_main_file("unpaper", UUID("d52248c9-e08a-51c2-9066-05d0bf3e6245"))
+JLLWrappers.@generate_main_file("unpaper", Base.UUID("d52248c9-e08a-51c2-9066-05d0bf3e6245"))
 end  # module unpaper_jll
